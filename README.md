@@ -5,7 +5,6 @@ Real-time American Sign Language (ASL) alphabet and phrase recognition using Com
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
@@ -20,7 +19,6 @@ Real-time American Sign Language (ASL) alphabet and phrase recognition using Com
 - [How It Works](#how-it-works)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -260,13 +258,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
+## �‍💻 Author
 
 **Priyanshu**  
 GitHub: [@Priyanshu07190](https://github.com/Priyanshu07190)
@@ -278,14 +270,6 @@ GitHub: [@Priyanshu07190](https://github.com/Priyanshu07190)
 - MediaPipe team for the hand tracking solution
 - Kaggle ASL dataset contributors
 - Scikit-learn community
-
----
-
-## 📧 Contact
-
-For questions or collaboration:
-- GitHub Issues: [Open an issue](https://github.com/Priyanshu07190/ASL-Recognition/issues)
-- Email: [Your Email]
 
 ---
 
