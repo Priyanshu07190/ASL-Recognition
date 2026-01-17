@@ -22,7 +22,7 @@ Real-time American Sign Language (ASL) alphabet and phrase recognition using Com
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This project implements a complete ASL recognition pipeline that detects and classifies hand gestures in real-time. It supports both **individual letters (A-Z)** and **common phrases** using MediaPipe for hand landmark detection and SVM/Random Forest classifiers for recognition.
 
@@ -34,7 +34,7 @@ This project implements a complete ASL recognition pipeline that detects and cla
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ **Real-time Hand Tracking** - Uses MediaPipe for robust 21-landmark hand detection  
 ✅ **Alphabet Recognition** - Recognizes all 26 letters + space + delete  
@@ -46,7 +46,7 @@ This project implements a complete ASL recognition pipeline that detects and cla
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Machine Learning & CV
 - **Python 3.8+** - Core programming language
@@ -61,7 +61,7 @@ This project implements a complete ASL recognition pipeline that detects and cla
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### 1. Train Your Own Model (Optional)
 
@@ -157,7 +157,7 @@ python 3_convert_arduino.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ASL-Recognition/
@@ -191,7 +191,7 @@ ASL-Recognition/
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 ### Alphabet Recognition (SVM)
 - **Accuracy**: 96.5%
@@ -209,7 +209,7 @@ ASL-Recognition/
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ### 1. Hand Landmark Detection
 - MediaPipe detects 21 key points on each hand
@@ -233,7 +233,7 @@ ASL-Recognition/
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Add more phrases (100+ common ASL phrases)
 - [ ] Implement sentence construction with grammar
@@ -246,7 +246,7 @@ ASL-Recognition/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
