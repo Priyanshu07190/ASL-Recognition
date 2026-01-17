@@ -1,0 +1,39 @@
+# Dataset - DO NOT PUSH (too large)
+dataset/
+
+# Large CSV feature files
+output/asl_features.csv
+output/asl_phrase_features.csv
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model files - optionally exclude if too large
+# Uncomment these lines if models are >50MB:
+# output/*.pkl
+
+# Temporary files
+*.log
+*.tmp
