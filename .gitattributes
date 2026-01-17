@@ -1,0 +1,5 @@
+# Mark model header files as generated (not real code)
+*.h linguist-generated=true
+
+# Mark Arduino output folder as vendored
+output/asl_recognition_arduino1/* linguist-vendored
