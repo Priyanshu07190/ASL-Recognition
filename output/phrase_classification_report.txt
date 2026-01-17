@@ -1,0 +1,53 @@
+ASL Phrase Recognition Model
+Test Accuracy: 99.61%
+
+                 precision    recall  f1-score   support
+
+          again       0.99      1.00      1.00       190
+          agree       1.00      1.00      1.00       189
+         answer       1.00      0.99      1.00       189
+     attendance       1.00      1.00      1.00       189
+           book       0.98      0.98      0.98       121
+          break       1.00      1.00      1.00       188
+        careful       1.00      1.00      1.00       147
+         change       0.98      0.99      0.99       182
+           chat       1.00      1.00      1.00       171
+congratulations       0.99      0.98      0.99       168
+          email       1.00      0.98      0.99       188
+           file       0.96      0.98      0.97       185
+   good morning       1.00      1.00      1.00       179
+ happy birthday       1.00      1.00      1.00       183
+           home       1.00      1.00      1.00       180
+    how are you       0.98      0.98      0.98       190
+         hungry       0.99      1.00      1.00       150
+    i need help       0.99      0.99      0.99       181
+           join       0.99      1.00      0.99       191
+      keepsmile       0.99      0.99      0.99       189
+           meet       1.00      1.00      1.00       191
+        mistake       1.00      1.00      1.00       191
+           open       1.00      1.00      1.00       192
+        opinion       1.00      1.00      1.00       193
+           pass       1.00      1.00      1.00       191
+         please       0.99      1.00      0.99       193
+       practice       0.99      0.99      0.99       171
+       pressure       1.00      1.00      1.00       183
+        problem       1.00      1.00      1.00       188
+      questions       1.00      1.00      1.00       192
+       remember       1.00      1.00      1.00       188
+           seat       1.00      1.00      1.00       190
+          shift       0.99      0.99      0.99       186
+           sick       1.00      1.00      1.00       191
+           stop       0.99      0.97      0.98       153
+            sun       1.00      1.00      1.00       191
+           team       1.00      1.00      1.00       184
+        thirsty       1.00      0.99      1.00       189
+           this       1.00      1.00      1.00       193
+       together       0.99      1.00      1.00       190
+     understand       1.00      1.00      1.00       188
+           wait       1.00      1.00      1.00       190
+          where       1.00      1.00      1.00       188
+          write       0.99      1.00      0.99       157
+
+       accuracy                           1.00      8013
+      macro avg       1.00      1.00      1.00      8013
+   weighted avg       1.00      1.00      1.00      8013
